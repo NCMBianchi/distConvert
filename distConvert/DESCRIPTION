@@ -1,0 +1,25 @@
+Package: distConvert
+Title: Conversion of distance measures
+Version: 0.99.0
+Authors@R: c(
+    person(given = "Rosario",
+           family = "Piro",
+           role = c("aut", "cre"),
+           email = "rosariomichael@polimi.it")
+    )
+Description: This package serves to convert different
+    distance measures, namely kilometers and miles, into
+    each other.
+Depends: R(>= 3.6)
+Imports: measurements
+Suggests: knitr, rmarkdown, BiocStyle, testthat
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+VignetteBuilder: knitr
+biocViews: Normalization, Preprocessing
+NeedsCompilation: no
+Packaged: 2022-04-06 14:13:17 UTC; rmp
+Author: Rosario Piro [aut, cre]
+Maintainer: Rosario Piro <rosariomichael@polimi.it>

@@ -1,0 +1,9 @@
+# rename this file to test-thiswillfail.R 
+# in case you want to test see a failed test!
+
+test_that("converting km to miles", {
+input <- 1
+expected <- 0
+expect_equal(km_to_miles(input), expected)
+})
+
