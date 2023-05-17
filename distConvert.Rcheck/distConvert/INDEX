@@ -1,0 +1,5 @@
+distConvert-package     distConvert - Convert distances from kilometres
+                        to miles and vice versa
+km_to_miles             Convert km to miles
+miles_to_km             Convert miles to km
+miles_to_km2            Convert miles to km (version 2)
