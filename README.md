@@ -1,4 +1,4 @@
-![klingon-clipart-15](https://github.com/NCMBianchi/distConvert/assets/111352723/d2cc6b14-a09f-4ad6-a0e1-82d6b0fc5c5d)
+![distConverter-ICON-EDIT](https://github.com/NCMBianchi/distConvert/assets/111352723/ab5203f5-0231-440b-b9a1-ec8dca4dcad1)
 
 # distConvert
 A test GitHub repository for an R package (as part of the Scientific Programming class).
